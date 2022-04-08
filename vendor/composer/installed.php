@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '90e10ed0d7eb9aa288e5f3519f631e4b4efa6aa1',
         'name' => 'fandy/belajar-php-composer',
         'dev' => true,
     ),
     'versions' => array(
         'fandy/belajar-php-composer' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '90e10ed0d7eb9aa288e5f3519f631e4b4efa6aa1',
             'dev_requirement' => false,
         ),
         'fandy/php_composer_library' => array(
