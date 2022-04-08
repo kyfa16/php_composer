@@ -1,0 +1,28 @@
+{
+    "name": "fandy/belajar-php-composer",
+    "description": "Belajar PHP Composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Fandy Ricky",
+            "email": "fandyricky16@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ProgrammerZamanNow\\" : "src/"
+        }
+    },
+    "repositories": [
+        {
+
+        "type": "vcs",
+        "url": "https://github.com/kyfa16/HelloCustomer"
+        }
+    ],
+    "require": {
+        "php" : ">= 8.0",
+        "monolog/monolog" : "2.4.0",
+        "fandy/php_composer_library" : "2.0.0"
+    }
+}
