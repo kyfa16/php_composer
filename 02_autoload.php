@@ -23,7 +23,7 @@ require_once __DIR__ . "/vendor/autoload.php";
 use ProgrammerZamanNow\Data\People;
 
 $person = new People("Fandy");
-echo $person->sayHello("Fito") . PHP_EOL;
+echo $person->sayHello("Fito!") . PHP_EOL;
 
 
 
