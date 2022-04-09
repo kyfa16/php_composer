@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '90e10ed0d7eb9aa288e5f3519f631e4b4efa6aa1',
+        'reference' => 'b9cf9ab8819431d2b106e06208ae79009f3a1a24',
         'name' => 'fandy/belajar-php-composer',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '90e10ed0d7eb9aa288e5f3519f631e4b4efa6aa1',
+            'reference' => 'b9cf9ab8819431d2b106e06208ae79009f3a1a24',
             'dev_requirement' => false,
         ),
         'fandy/php_composer_library' => array(
