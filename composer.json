@@ -21,6 +21,11 @@
         "url": "https://github.com/kyfa16/HelloCustomer"
         }
     ],
+    "scripts" : {
+        "jalankan-server": "php -S localhost:8080",
+        "hello": "echo 'HelloWorld"
+    }
+    ,
     "require": {
         "php" : ">= 8.0",
         "monolog/monolog" : "2.4.0",

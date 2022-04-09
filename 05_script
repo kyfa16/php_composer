@@ -1,0 +1,4 @@
+<?php
+
+//merupakan fitur composer untuk menjalan script panjang yang kita buat sendiri
+//sehingga kita hanya perlu memanggil command : composer namascript
