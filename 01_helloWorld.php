@@ -6,6 +6,7 @@ require_once __DIR__ . "/vendor/autoload.php";
 
 echo "Hello World Composer" . PHP_EOL;
 //edit on master
+//new line
 
 
 //tujuan composer sendiri adalah untuk memanage dependensi dari library yang kita gunakan
